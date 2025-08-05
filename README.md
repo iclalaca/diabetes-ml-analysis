@@ -77,15 +77,6 @@ The analysis shows that [your best performing model] achieves the highest accura
 Confusion matrices for all models
 Accuracy comparison bar plots
 The results highlight the trade-offs between different classifiers and their suitability for this medical dataset.
-
----
-
-## Contact
-
-For questions or feedback, please reach out to:
-
-İclal Aca
-
 Email: iclalaca.ai@gmail.com
 
 LinkedIn: www.linkedin.com/in/iclal-aca
